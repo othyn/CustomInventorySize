@@ -1,0 +1,1 @@
+data.raw["player"]["player"].inventory_size = settings.startup["custom-inventory-size"].value
