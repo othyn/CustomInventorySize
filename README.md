@@ -1,6 +1,8 @@
 # CustomInventorySize
 Factorio mod to allow for custom inventory sizes.
 
+![Image of inventory size mod settings pane](icon.PNG)
+
 Defaults to 120 (2x), but allows you to configure it anywhere from 60 (factorio default) to 480 (8x).
 
 Mod can be downloaded via any of these:
