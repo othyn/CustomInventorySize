@@ -13,5 +13,8 @@ Mod can be downloaded via any of these:
 Inspired by the original ["Larger Inventory"](https://github.com/Rseding91/Larger-Inventory) mod by [Rseding91](https://github.com/Rseding91).
 
 ## Changelog
+1.0.1
+- Updated for 0.16
+
 1.0.0:
 - Initial release
