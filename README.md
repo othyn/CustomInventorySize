@@ -1,4 +1,4 @@
-# CustomInventorySize
+# Custom Inventory Size
 Factorio mod to allow for custom inventory sizes.
 
 ![Image of inventory size mod settings pane](icon.PNG)
